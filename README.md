@@ -1,7 +1,9 @@
     Dashboard Project with STM32F407
     
       📝 Project Description
-    This project involves creating a dashboard using an STM32F407 microcontroller, which features an LCD display for visual feedback. The system integrates several peripherals including I2C for LCD communication, ADC for sensor input, and PWM for controlling actuators. The dashboard reads sensor data, processes it, and displays the information on the LCD in real-time.
+    This project involves creating a dashboard using an STM32F407 microcontroller, which features an LCD display for visual feedback. 
+    The system integrates several peripherals including I2C for LCD communication, ADC for sensor input, and PWM for controlling actuators. 
+    The dashboard reads sensor data, processes it, and displays the information on the LCD in real-time.
 
       🔑 Keywords
     STM32F407
